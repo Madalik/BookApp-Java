@@ -1,0 +1,60 @@
+[
+    { 
+      "id": "001",
+      "author": "Chinua Achebe",
+      "title": "Things Fall Apart",
+      "email": "anna@gmail.com",
+      "borrow": true
+    
+    },
+    {
+      "id": "002",
+      "author": "Hans Christian Andersen",
+      "title": "Fairy tales",
+      "email": "herry@gmail.com",
+      "borrow": true
+      
+    },
+    {
+      "id": "003",
+      "author": "Dante Alighieri",
+      "title": "The Divine Comedy",
+      "email": "",
+      "borrow": false
+    },
+    {
+      "id": "004",
+      "author": "Unknown",
+      "title": "The Epic Of Gilgamesh",
+      "email": "",
+      "borrow": false
+    },
+    {
+      "id": "005",
+      "author": "Unknown",
+      "title": "The Book Of Job",
+      "email": "",
+      "borrow": false
+    },
+    {
+      "id": "006",
+      "author": "Unknown",
+      "title": "One Thousand and One Nights",
+      "email": "tom@gmail.com",
+      "borrow": true
+    },
+    {
+      "id": "008",
+      "author": "Jane Austen",
+      "title": "Pride and Prejudice",
+      "email": "",
+      "borrow": false
+    },
+    {
+      "id": "010",
+      "author": "Samuel Beckett",
+      "title": "Molloy, Malone Dies, The Unnamable, the trilogy",
+      "email": "roze@gmail.com",
+      "borrow": true
+    }
+    ]
